@@ -8,7 +8,7 @@
 ---
 ### 직업 미래 전망
           향후 10년 정도는 일자리가 늘어날 것으로 예상
-          * 외부링크: <https://www.edujin.co.kr/news/articleView.html?idxno=46153>
+* 출처 기사 : <https://www.edujin.co.kr/news/articleView.html?idxno=46153>
 ---         
 ### 직업을 위해 갖춰야 할 필요한 지식, 소양, 역량
           코딩, 운영체제 원리, 취약점, 
